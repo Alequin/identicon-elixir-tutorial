@@ -1,0 +1,2 @@
+alias run="iex -S mix"
+alias tst="mix test"
